@@ -1,0 +1,12 @@
+W:\CIS260\Projects\Homework3\Homework3\bin\Debug\Homework3.exe.config
+W:\CIS260\Projects\Homework3\Homework3\bin\Debug\Homework3.exe
+W:\CIS260\Projects\Homework3\Homework3\bin\Debug\Homework3.pdb
+W:\CIS260\Projects\Homework3\Homework3\bin\Debug\Homework3.xml
+W:\CIS260\Projects\Homework3\Homework3\obj\Debug\Homework3.vbprojAssemblyReference.cache
+W:\CIS260\Projects\Homework3\Homework3\obj\Debug\Homework3.Form1.resources
+W:\CIS260\Projects\Homework3\Homework3\obj\Debug\Homework3.Resources.resources
+W:\CIS260\Projects\Homework3\Homework3\obj\Debug\Homework3.vbproj.GenerateResource.cache
+W:\CIS260\Projects\Homework3\Homework3\obj\Debug\Homework3.vbproj.CoreCompileInputs.cache
+W:\CIS260\Projects\Homework3\Homework3\obj\Debug\Homework3.exe
+W:\CIS260\Projects\Homework3\Homework3\obj\Debug\Homework3.xml
+W:\CIS260\Projects\Homework3\Homework3\obj\Debug\Homework3.pdb
